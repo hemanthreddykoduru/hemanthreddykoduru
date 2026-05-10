@@ -176,7 +176,6 @@ If my projects helped you or you want to support an indie builder, you can buy m
 
 <img src="https://tkwazltvxdztaunerksd.supabase.co/storage/v1/object/public/assets/WhatsApp%20Image%202026-05-10%20at%2012.13.17.jpeg" alt="PhonePe QR Code - Hemanth Reddy" width="200"/>
 
-*Scan to support via PhonePe 🙏*
 
 </div>
 
