@@ -160,8 +160,8 @@ I don't just study computer science — I apply it. From AI-powered assistants t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthreddykoduru)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemanthreddyk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/hemanthreddykoduru/Portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithquickxerox@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemanthreddykoduru.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanth.reddyk@yahoo.com)
 [![QuickXerox](https://img.shields.io/badge/QuickXerox-6E40C9?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://quickxerox.app)
 
 </div>
