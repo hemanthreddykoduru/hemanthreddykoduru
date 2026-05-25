@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hemanth Reddy**, an Engineering student at **GITAM University, Bengaluru** — and more importantly, a builder who ships real products.
+I'm **Hemanth Reddy**, an Engineering student at  — and more importantly, a builder who ships real products.
 
 I don't just study computer science — I apply it. From AI-powered assistants to full-stack startup platforms to Android apps, I build things that solve real problems and reach real users. My work sits at the intersection of **software engineering**, **product thinking**, and **entrepreneurship**.
 
-- 🎓 **B.Tech @ GITAM University, Bengaluru** (Computer Science)
+- 🎓  (Computer Science)
 - 🚀 Founder of **[QuickXerox](https://quickxerox.app)** — a print order management startup
 - 🤖 Passionate about **AI/ML**, **LLMs**, and **agentic systems**
 - 📱 Building for **web**, **mobile (Android/Flutter)**, and **cloud**
