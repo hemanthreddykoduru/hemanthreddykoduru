@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hemanth Reddy**, an Engineering student at  — and more importantly, a builder who ships real products.
+I'm **Hemanth Reddy**, an Engineering student — and more importantly, a builder who ships real products.
 
 I don't just study computer science — I apply it. From AI-powered assistants to full-stack startup platforms to Android apps, I build things that solve real problems and reach real users. My work sits at the intersection of **software engineering**, **product thinking**, and **entrepreneurship**.
 
-- 🎓  (Computer Science)
+- 🎓 (Computer Science)
 - 🚀 Founder of **[QuickXerox](https://quickxerox.app)** — a print order management startup
 - 🤖 Passionate about **AI/ML**, **LLMs**, and **agentic systems**
 - 📱 Building for **web**, **mobile (Android/Flutter)**, and **cloud**
@@ -58,6 +58,35 @@ I don't just study computer science — I apply it. From AI-powered assistants t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🌟 Open Source Contributions
+
+### 🚀 InsForge — Razorpay Integration
+
+Recently contributed a major payment infrastructure feature to InsForge, an AI-native infrastructure platform.
+
+**Highlights**
+- Implemented Razorpay as a first-class payment provider alongside Stripe
+- Built synchronization services for Products, Customers, Subscriptions, and Payment History
+- Added secure secret management and environment-specific configuration
+- Designed PostgreSQL migrations for multi-provider support
+- Implemented webhook signature verification and idempotent event handling
+- Added provider-aware frontend dashboard integration
+- Collaborated directly with maintainers through architecture reviews and production testing
+
+**Tech Stack**
+`TypeScript` · `Node.js` · `React` · `PostgreSQL` · `Docker` · `Razorpay`
+
+**Impact**
+- 30+ commits merged
+- ~3,000 lines of production code
+- Full end-to-end payment provider integration
+- Open-source contribution accepted and merged into InsForge
+
+**Pull Request**
+[View Contribution](https://github.com/InsForge/InsForge/pull/1382)
 
 ---
 
