@@ -1,15 +1,19 @@
 <div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hemanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20•%20Developer%20•%20Founder&descAlignY=60&descSize=18"/>
+
 <!-- Typing Animation Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Hemanth+Reddy+%F0%9F%91%8B;Builder.+Developer.+Founder.;Turning+ideas+into+real+products.;AI+%7C+Full+Stack+%7C+Android+%7C+Startups)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
+<!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=hemanthreddykoduru&label=Profile%20Views&color=6E40C9&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/hemanthreddykoduru?label=Followers&style=flat-square&color=6E40C9)](https://github.com/hemanthreddykoduru)
 
 </div>
 
----
+<!-- Animated Divider -->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 👨‍💻 About Me
 
@@ -17,14 +21,14 @@ I'm **Hemanth Reddy**, an Engineering student — and more importantly, a builde
 
 I don't just study computer science — I apply it. From AI-powered assistants to full-stack startup platforms to Android apps, I build things that solve real problems and reach real users. My work sits at the intersection of **software engineering**, **product thinking**, and **entrepreneurship**.
 
-- 🎓 (Computer Science)
+- 🎓 Engineering Student — **Computer Science**
 - 🚀 Founder of **[QuickXerox](https://quickxerox.app)** — a print order management startup
 - 🤖 Passionate about **AI/ML**, **LLMs**, and **agentic systems**
 - 📱 Building for **web**, **mobile (Android/Flutter)**, and **cloud**
 - 🌱 Currently deepening expertise in **Flutter**, **Supabase**, and **LLM integration**
 - ⚡ I turn rough ideas into working products — fast
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +63,7 @@ I don't just study computer science — I apply it. From AI-powered assistants t
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 🌟 Open Source Contributions
 
@@ -88,7 +92,7 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 **Pull Request**
 [View Contribution](https://github.com/InsForge/InsForge/pull/1382)
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 🚀 Featured Projects
 
@@ -101,8 +105,6 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 | [**hemanthreddybot**](https://github.com/hemanthreddykoduru/hemanthreddybot) | Conversational AI chatbot with custom dialogue flows | Python, NLP |
 | [**ISRO-AIR**](https://github.com/hemanthreddykoduru/ISRO-AIR) | AI-powered aerospace/remote sensing data analysis tool | Python, ML |
 
----
-
 ### 🌐 Full Stack Projects
 
 | Project | Description | Tech |
@@ -113,16 +115,12 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 | [**Notes-Bay**](https://github.com/hemanthreddykoduru/Notes-Bay) | Student notes sharing and discovery platform | Full Stack |
 | [**PDF-Helper**](https://github.com/hemanthreddykoduru/PDF-Helper) | Web tool for PDF manipulation — merge, split, extract, convert | Full Stack |
 
----
-
 ### 📱 Android & Utility Apps
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Smart Attendance**](https://github.com/hemanthreddykoduru/Smart-Attendence) | Automated attendance tracking system for classrooms | Android, Java |
 | [**Chitti-2.0**](https://github.com/hemanthreddykoduru/Chitti-2.0) | Smart personal assistant Android app | Android, Java/Kotlin |
-
----
 
 ### 🌍 Web Development
 
@@ -132,15 +130,11 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 | [**Static Website**](https://github.com/hemanthreddykoduru/Static-Website) | Clean, responsive static site template | HTML, CSS |
 | [**WEBLAB**](https://github.com/hemanthreddykoduru/WEBLAB) | Frontend experiments and web development practice lab | HTML, CSS, JS |
 
----
-
 ### 🧪 Experimental & Research Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Cricket25**](https://github.com/hemanthreddykoduru/Cricket25) | Cricket stats and match analysis tool | Python / Web |
-
----
 
 ### 🎮 Games
 
@@ -148,7 +142,7 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 |---------|-------------|------|
 | [**Flappy Bird**](https://github.com/hemanthreddykoduru/flappy-bird) | Classic Flappy Bird clone built from scratch | Python / JS |
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 📊 GitHub Stats
 
@@ -165,13 +159,20 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 
 </div>
 
+<!-- Animated Snake eating contributions -->
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/hemanthreddykoduru/hemanthreddykoduru/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 <div align="center">
 
 [![Hemanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemanthreddykoduru&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 🏆 GitHub Trophies
 
@@ -181,7 +182,7 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 ## 📬 Connect With Me
 
@@ -191,19 +192,18 @@ Recently contributed a major payment infrastructure feature to InsForge, an AI-n
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemanthreddyk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemanthreddykoduru.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanth.reddyk@yahoo.com)
-[![QuickXerox](https://img.shields.io/badge/QuickXerox-6E40C9?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://quickxerox.app)
+[![QuickXerox](https://img.shields.io/badge/QuickXerox-6E40C9?style=for-the-badge&logoColor=white)](https://quickxerox.app)
 
 </div>
 
----
-
-
----
+<br/>
 
 <div align="center">
 
-*"I don't wait for the right opportunity — I build it."*
+### 💬 *"I don't wait for the right opportunity — I build it."*
 
 **⭐ If you find my work useful, consider starring the repos!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
 
 </div>
