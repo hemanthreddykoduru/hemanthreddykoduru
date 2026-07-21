@@ -21,6 +21,7 @@ I'm **Hemanth Reddy**, an Engineering student — and more importantly, a builde
 
 I don't just study computer science — I apply it. From AI-powered assistants to full-stack startup platforms to Android apps, I build things that solve real problems and reach real users. My work sits at the intersection of **software engineering**, **product thinking**, and **entrepreneurship**.
 
+- Email: hemanthreddykoduru2005@gmail.com
 - 🎓 Engineering Student — **Computer Science**
 - 🚀 Founder of **[QuickXerox](https://quickxerox.app)** — a print order management startup
 - 🤖 Passionate about **AI/ML**, **LLMs**, and **agentic systems**
