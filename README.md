@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hemanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20•%20Developer%20•%20Founder&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hemanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20•%20Builder%20•%20Developer%20•%20Founder&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Hemanth+Reddy+%F0%9F%91%8B;Builder.+Developer.+Founder.;Turning+ideas+into+real+products.;AI+%7C+Full+Stack+%7C+Android+%7C+Startups)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Hemanth+Reddy+%F0%9F%91%8B;Contributor.+Builder.+Developer.+Founder.;Turning+ideas+into+real+products.;AI+%7C+Full+Stack+%7C+Android+%7C+Startups)](https://git.io/typing-svg)
 
 <!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=hemanthreddykoduru&label=Profile%20Views&color=6E40C9&style=flat-square)
@@ -17,11 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hemanth Reddy**, an Engineering student — and more importantly, a builder who ships real products.
+I'm **Hemanth Reddy**, an Open Source Contributor & Engineering student — and more importantly, a builder who ships real products.
 
 I don't just study computer science — I apply it. From AI-powered assistants to full-stack startup platforms to Android apps, I build things that solve real problems and reach real users. My work sits at the intersection of **software engineering**, **product thinking**, and **entrepreneurship**.
 
 - Email: hemanthreddykoduru2005@gmail.com
+-  A very enthusiast tech guy with always thinking to contributor to open source
 - 🎓 Engineering Student — **Computer Science**
 - 🚀 Founder of **[QuickXerox](https://quickxerox.app)** — a print order management startup
 - 🤖 Passionate about **AI/ML**, **LLMs**, and **agentic systems**
