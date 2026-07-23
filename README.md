@@ -69,7 +69,7 @@ I don't just study computer science — I apply it. From AI-powered assistants t
 
 ## 🌟 Open Source Contributions
 
-### 🚀 InsForge — Razorpay Integration
+### **[InsForge](https://insforge.dev/)** — **[Razorpay Integration](https://insforge.dev/blog/insforge-razorpay-integration)**
 
 Recently contributed a major payment infrastructure feature to InsForge, an AI-native infrastructure platform.
 
